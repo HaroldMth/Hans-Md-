@@ -1,12 +1,18 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+### Hans-MD WhatsApp bot
 
-<p align="center"> 
-  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+A fun WhatsApp bot.
+
+<h4 align="center"> ✔️ No Heroku Ban! ✔️</h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BY+HAROLD+MTH" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://telegra.ph/file/eb96c716a327862d66078.jpg">
+    <img alt="Fance MD" height="400" src="https://telegra.ph/file/eb96c716a327862d66078.jpg">
+  </a>
 </p>
-</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=7AF700&random=false&width=435&lines=%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A8-%F0%9D%99%88%F0%9D%99%99+%F0%9D%99%88%F0%9D%99%90%F0%9D%99%87%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%81%F0%9D%99%90%F0%9D%99%89%F0%9D%98%BE%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%8A%F0%9D%99%89%F0%9D%98%BC%F0%9D%99%87+%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;Hans+Md+MULTIFUNCTIONAL+Bot+MD" alt="Typing SVG" /></a>
 
-### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 3 days because i am continuously debugging it and making major changes in it.
+### ✧✧ This bot is still under development.✧✧
 </br>
 ## ✧✧✧ What' new v1.0.2?
 
